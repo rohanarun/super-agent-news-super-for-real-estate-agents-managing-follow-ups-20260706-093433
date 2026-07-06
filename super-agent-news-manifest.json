@@ -1,0 +1,51 @@
+{
+  "citations": [
+    {
+      "source": "AZ Big Media",
+      "title": "The future of real estate operations: AI and virtual assistants working together",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUXpKazdjZkdrY1kyYTh1S21uUWw4UjhseWJqSHBuNm5XQ2dmWnpRRVBSNWhvMGdENjBmanRIQk1lZlNLa2hoRjA3MG5iYVBqb0I2aXlPTGpfb1V3bXZVQXNFMXJHUE9rbGFfYkNWdUtqM2pWQnl6N3p6YjJ2LW00TzVBOVBqaHdJZVFaRnF2ZDJVM25PSlQ0N3RlclZfV3A5NHRJRjNpc3Uxdm4tbkVveWFlYkZDdw?oc=5"
+    },
+    {
+      "source": "blog.google",
+      "title": "Introducing computer use in Gemini 3.5 Flash",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVjllUkZKb0szb0oyXzd5NnNVdGlQZk9PYmNkWlQyU3VkdGpNNGFhaVVoRGdOaFB1dDNRbUVrMWRzdFRnc3JBZlZZUThFeHdjQTljTW1oVnJPU1p6MDU2b2lZQ2tsV0I5Q2NSeWdhd09FV0plYTB3NmdTRlZVbHlQQ3gzazZpOVYzMWV4QjQ4S0xnT0tickhIZVMzcTVWMjVOQ2xpS2dOZTFXUms4LTJ0Y2s0YU0?oc=5"
+    },
+    {
+      "source": "Search Engine Journal",
+      "title": "Google Gemini Can Now Control Your Computer. Hackers Are Already Targeting AI Agents",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPRVJoRjFoQjUzdGpSQlNUNUZmQTBUUzBnRkFqZUl2N0N6SkxaS3kzTmR1cUZDZFJ3cEsxcjFYQXVWYmh2RU56UEhlLVpZS2JQcE5WRmg1LXRGRUJUVmxMeWdnTlRkQjNNNzVCTThETk8zRW5qMnRlUnZGRjZWUFRPeVA3RVVtcDQtTklUWTk4T2NLOE1VWG9YVjdrM1BjMW1kd1JQZndaQy1PTURSUUg1eHcwV1NlRFBJOVR3SkpkeTZYX3lMT2c?oc=5"
+    },
+    {
+      "source": "MIT News",
+      "title": "Q&A: What is agentic AI today, and what do we want it to be?",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5RM1ZBZHlsbkR4dlJscXJLMkhFUzN1S280eXBsV1hCXzdCOTBraWZ1cUt1SUhqXzBUbThPSnBQdWpKTTI2aXdxQTdHbk9SM1d2NGluUXZ0cWktNzdWeS1xZHRQcVhDcWs5M2R4YXdUTGVvMThCRXc?oc=5"
+    },
+    {
+      "source": "Anthropic Engineering",
+      "title": "Building Effective AI Agents",
+      "url": "https://www.anthropic.com/engineering/building-effective-agents"
+    },
+    {
+      "source": "Google AI for Developers",
+      "title": "Computer Use | Gemini API Documentation",
+      "url": "https://ai.google.dev/gemini-api/docs/computer-use"
+    }
+  ],
+  "design_plan": "Python RNG Execution: seed=hash(title+kind+audience+generated_at) \u2192 hero=workflow-command-center, typography=Cabinet Grotesk, components=[workflow-playbook-timeline, gapless-bento-grid, source-card-dossier], gsap=[pinned-chapter-scroll, hover-physics]. AIDA Check: hero attention, proof interest, workflow desire, CTA action. Font Selection: Cabinet Grotesk via Fontshare. Hero Math Verification: clamp headline spans 2\u20133 lines at 1120px max. Bento Density Verification: grid-auto-flow:dense present. GSAP Motion Selection: guarded ScrollTrigger + hover physics. Label Sweep & Button Check: primary CTA black pill, secondary white pill, contrast verified.",
+  "generated_at": "2026-07-06T09:34:40.457608+00:00",
+  "headline": "Super for real estate agents managing follow-ups, listings, and scheduling",
+  "site_brief": {
+    "audience": "real estate agents managing follow-ups, listings, and scheduling",
+    "goal": "Create a conversion-focused landing page for this audience. Tie current market evidence to pain points, then show how Super can operate apps and reuse a computer-use cache for repeated work. Include a long-form field guide for this niche with concrete workflows, how-to steps, role-specific examples, objections, and a setup checklist.",
+    "kind": "niche_landing",
+    "queries": [
+      "real estate agents managing follow-ups, listings, and scheduling AI assistant",
+      "real estate agents managing follow-ups, listings, and scheduling personal AI agent",
+      "computer use AI agent",
+      "AI workflow automation"
+    ],
+    "slug": "super-for-real-estate-agents-managing-follow-ups-listings",
+    "title": "Super for real estate agents managing follow-ups, listings, and scheduling"
+  },
+  "summary": "A premium, field\u2011guide landing page showing how real estate agents use Super\u2019s personal AI agents to handle follow\u2011ups, listing updates, and scheduling across real apps \u2014 with reusable computer\u2011use cache advantages for repeated workflows."
+}
